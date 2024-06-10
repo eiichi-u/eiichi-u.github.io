@@ -104,7 +104,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 60px;
   margin-right: 8px;
 }
 
@@ -117,7 +117,7 @@ h6 {
 
 @media (max-width: 480px) {
   .header .logo img {
-    max-height: 24px;
+    max-height: 34px;
   }
 
   .header .logo h1 {
@@ -462,7 +462,7 @@ h6 {
   color: var(--default-color);
   background-color: var(--background-color);
   font-size: 14px;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
   position: relative;
 }
 
